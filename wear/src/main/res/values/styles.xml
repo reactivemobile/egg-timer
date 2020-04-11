@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="ButtonText" parent="@style/TextAppearance.Wearable.Large">
+        <item name="textColor">@color/selector_clickable_text</item>
+        <item name="android:padding">@dimen/base_padding</item>
+    </style>
+
+    <style name="DigitText" parent="@style/TextAppearance.Wearable.Large">
+        <item name="textColor">@color/foreground</item>
+        <item name="android:textSize">64sp</item>
+        <item name="android:padding">@dimen/base_padding</item>
+    </style>
+</resources>

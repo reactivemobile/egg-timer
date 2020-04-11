@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#AAD5FB</color>
+    <color name="outline">#ff000000</color>
+    <color name="foreground">#ff989898</color>
+    <color name="foreground_pressed">#FF9100</color>
+    <color name="egg">#FFEA00</color>
+</resources>
