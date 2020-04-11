@@ -16,7 +16,7 @@ class MainActivity : WearableActivity() {
         setContentView(R.layout.activity_main)
 
         start_hard_button.setOnClickListener { startTimer(480000) }
-        start_soft_button.setOnClickListener { startTimer(4000) } //240000
+        start_soft_button.setOnClickListener { startTimer(240000) }
 
         // Enables Always-on
         setAmbientEnabled()
